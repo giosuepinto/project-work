@@ -1,0 +1,15 @@
+{
+    "scenario": {
+        "N": 100,
+        "DENSITY": 0.5,
+        "ALPHA": 2.0,
+        "BETA": 3.0,
+        "SEED": 42
+    },
+    "valid": true,
+    "errors": [],
+    "baseline": 12185224208.027502,
+    "solution": 2887100330.04771,
+    "multiplier": 4.220575253727375,
+    "time_solver": 31.721259117126465
+}

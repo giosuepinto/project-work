@@ -1,0 +1,233 @@
+{
+    "TSP-like (d=0.2)": {
+        "group": "TSP-like",
+        "density": 0.2,
+        "alpha": 0.0,
+        "beta": 1.0,
+        "baseline": 107.50161884225957,
+        "solution": 19.478197224418874,
+        "time": 1.576817274093628,
+        "valid": true,
+        "improvement_x": 5.519074358046339
+    },
+    "TSP-like (d=0.5)": {
+        "group": "TSP-like",
+        "density": 0.5,
+        "alpha": 0.0,
+        "beta": 1.0,
+        "baseline": 76.83075312140379,
+        "solution": 11.759752529726525,
+        "time": 1.7633280754089355,
+        "valid": true,
+        "improvement_x": 6.5333647903890455
+    },
+    "TSP-like (d=1.0)": {
+        "group": "TSP-like",
+        "density": 1.0,
+        "alpha": 0.0,
+        "beta": 1.0,
+        "baseline": 74.45312928140083,
+        "solution": 8.05196407274908,
+        "time": 4.502195119857788,
+        "valid": true,
+        "improvement_x": 9.246579916244118
+    },
+    "Linear (d=0.2)": {
+        "group": "Linear",
+        "density": 0.2,
+        "alpha": 1.0,
+        "beta": 1.0,
+        "baseline": 25266.40561851071,
+        "solution": 25236.985457342427,
+        "time": 30.814184188842773,
+        "valid": true,
+        "improvement_x": 1.0011657557602516
+    },
+    "Linear (d=0.5)": {
+        "group": "Linear",
+        "density": 0.5,
+        "alpha": 1.0,
+        "beta": 1.0,
+        "baseline": 18811.322295439797,
+        "solution": 18794.711073701554,
+        "time": 27.96287226676941,
+        "valid": true,
+        "improvement_x": 1.0008838242670028
+    },
+    "Linear (d=1.0)": {
+        "group": "Linear",
+        "density": 1.0,
+        "alpha": 1.0,
+        "beta": 1.0,
+        "baseline": 18266.185795826725,
+        "solution": 18253.627670838276,
+        "time": 36.95420503616333,
+        "valid": true,
+        "improvement_x": 1.0006879796835404
+    },
+    "Linear2 (d=0.2)": {
+        "group": "Linear2",
+        "density": 0.2,
+        "alpha": 2.0,
+        "beta": 1.0,
+        "baseline": 50425.309618179184,
+        "solution": 50397.62662128133,
+        "time": 20.926533937454224,
+        "valid": true,
+        "improvement_x": 1.000549291678076
+    },
+    "Linear2 (d=0.5)": {
+        "group": "Linear2",
+        "density": 0.5,
+        "alpha": 2.0,
+        "beta": 1.0,
+        "baseline": 37545.81383775821,
+        "solution": 37530.183710208876,
+        "time": 35.89440417289734,
+        "valid": true,
+        "improvement_x": 1.0004164681865142
+    },
+    "Linear2 (d=1.0)": {
+        "group": "Linear2",
+        "density": 1.0,
+        "alpha": 2.0,
+        "beta": 1.0,
+        "baseline": 36457.91846237206,
+        "solution": 36448.193039481,
+        "time": 33.9224488735199,
+        "valid": true,
+        "improvement_x": 1.0002668286705056
+    },
+    "Concave (d=0.2)": {
+        "group": "Concave",
+        "density": 0.2,
+        "alpha": 1.0,
+        "beta": 0.5,
+        "baseline": 2231.047939971318,
+        "solution": 1599.8309882191045,
+        "time": 53.17559814453125,
+        "valid": true,
+        "improvement_x": 1.3945522723340107
+    },
+    "Concave (d=0.5)": {
+        "group": "Concave",
+        "density": 0.5,
+        "alpha": 1.0,
+        "beta": 0.5,
+        "baseline": 1535.7148727326748,
+        "solution": 1196.0076802118274,
+        "time": 64.38126993179321,
+        "valid": true,
+        "improvement_x": 1.2840342901984385
+    },
+    "Concave (d=1.0)": {
+        "group": "Concave",
+        "density": 1.0,
+        "alpha": 1.0,
+        "beta": 0.5,
+        "baseline": 1292.6308177628093,
+        "solution": 1068.2166323015113,
+        "time": 34.52171206474304,
+        "valid": true,
+        "improvement_x": 1.2100830287371482
+    },
+    "Concave2 (d=0.2)": {
+        "group": "Concave2",
+        "density": 0.2,
+        "alpha": 2.0,
+        "beta": 0.5,
+        "baseline": 3110.6496265104656,
+        "solution": 2218.0177175779454,
+        "time": 37.398874044418335,
+        "valid": true,
+        "improvement_x": 1.4024457973704854
+    },
+    "Concave2 (d=0.5)": {
+        "group": "Concave2",
+        "density": 0.5,
+        "alpha": 2.0,
+        "beta": 0.5,
+        "baseline": 2140.0044610063965,
+        "solution": 1678.1831721209119,
+        "time": 58.4583580493927,
+        "valid": true,
+        "improvement_x": 1.2751912285604845
+    },
+    "Concave2 (d=1.0)": {
+        "group": "Concave2",
+        "density": 1.0,
+        "alpha": 2.0,
+        "beta": 0.5,
+        "baseline": 1797.2165377121157,
+        "solution": 1506.412968182489,
+        "time": 45.019530057907104,
+        "valid": true,
+        "improvement_x": 1.1930437241790912
+    },
+    "Convex (d=0.2)": {
+        "group": "Convex",
+        "density": 0.2,
+        "alpha": 1.0,
+        "beta": 2.0,
+        "baseline": 5334401.927002504,
+        "solution": 3322172.9352500658,
+        "time": 35.93228578567505,
+        "valid": true,
+        "improvement_x": 1.6056966422191907
+    },
+    "Convex (d=0.5)": {
+        "group": "Convex",
+        "density": 0.5,
+        "alpha": 1.0,
+        "beta": 2.0,
+        "baseline": 4696149.778603789,
+        "solution": 2435550.67460551,
+        "time": 52.13138699531555,
+        "valid": true,
+        "improvement_x": 1.9281675505948699
+    },
+    "Convex (d=1.0)": {
+        "group": "Convex",
+        "density": 1.0,
+        "alpha": 1.0,
+        "beta": 2.0,
+        "baseline": 5404978.08899582,
+        "solution": 3024784.9380411697,
+        "time": 92.96089816093445,
+        "valid": true,
+        "improvement_x": 1.7868966553688432
+    },
+    "Convex2 (d=0.2)": {
+        "group": "Convex2",
+        "density": 0.2,
+        "alpha": 1.5,
+        "beta": 2.5,
+        "baseline": 240499532.50313428,
+        "solution": 80234278.63266754,
+        "time": 63.84194302558899,
+        "valid": true,
+        "improvement_x": 2.997466127965092
+    },
+    "Convex2 (d=0.5)": {
+        "group": "Convex2",
+        "density": 0.5,
+        "alpha": 1.5,
+        "beta": 2.5,
+        "baseline": 228065492.28108737,
+        "solution": 58101567.33179351,
+        "time": 155.73220586776733,
+        "valid": true,
+        "improvement_x": 3.925289845946869
+    },
+    "Convex2 (d=1.0)": {
+        "group": "Convex2",
+        "density": 1.0,
+        "alpha": 1.5,
+        "beta": 2.5,
+        "baseline": 278496240.4199755,
+        "solution": 80621833.32285903,
+        "time": 120.1210241317749,
+        "valid": true,
+        "improvement_x": 3.454352610721547
+    }
+}
